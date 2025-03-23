@@ -11,7 +11,7 @@ Your repository should look like this: https://github.com/manika-lamba/activity-
 
 Watch the video provided in Canvas (below). Eventhough the video talks about sharing the Jupyter notebook by Binder. The procedure will be the same for both R Script & Jupyter Notebook.
 
-<iframe src="https://www.kaltura.com//p/1459281/embedPlaykitJs/uiconf_id/55091662?iframeembed=true&entry_id=1_lonreik9" style="width: 560px;height: 395px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *"/>
+https://www.kaltura.com//p/1459281/embedPlaykitJs/uiconf_id/55091662?iframeembed=true&entry_id=1_lonreik9
 
 
 Step 1: Make a new R script OR Jupyter notebook containing any sample code. You can use your older R scripts or Jupter notebooks from other courses OR you can also use the file that you made for AE#3 this week! [1 Point]
