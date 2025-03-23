@@ -22,7 +22,7 @@ Step 2:  Create all the essential files needed for BinderHub to run. See #2 & #3
 ### For R script you need:
 - [install.R](https://github.com/manika-lamba/activity-4/blob/main/install.R)
 - [runtime.txt](https://github.com/manika-lamba/activity-4/blob/main/runtime.txt)
-- [github/workflows](https://github.com/manika-lamba/activity-4/tree/main/.github/workflows)
+- [github/workflows](https://github.com/manika-lamba/activity-4/tree/main/.github/workflows)  (yml file)
 - [LICENSE](https://github.com/manika-lamba/activity-4/blob/main/LICENSE)
 - [README.md](https://github.com/manika-lamba/activity-4/blob/main/README.md)
 - [your R Script](https://github.com/manika-lamba/activity-4/blob/main/wordfish.R)
