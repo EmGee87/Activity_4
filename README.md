@@ -16,13 +16,13 @@ https://www.kaltura.com//p/1459281/embedPlaykitJs/uiconf_id/55091662?iframeembed
 
 Step 1: Make a new R script OR Jupyter notebook containing any sample code. You can use your older R scripts or Jupter notebooks from other courses OR you can also use the file that you made for AE#3 this week! [1 Point]
 
-Step 2:  Create all the essential files needed for BinderHub to run. See #2 & #3 hereLinks to an external site.. [5 Point]
+Step 2:  Create all the essential files needed for BinderHub to run. See #2 & #3 here[Links to an external site](https://github.com/manika-lamba/activity-4/tree/main).. [5 Point]
 
 For R script you need:
 
-install.RLinks to an external site.
-Links to an external site.runtime.txtLinks to an external site.
-Links to an external site..github/worlflowsLinks to an external site. folder
+install.R[Links to an external site.](https://github.com/manika-lamba/activity-4/blob/main/install.R)
+[Links to an external site.](https://github.com/manika-lamba/activity-4/blob/main/runtime.txt)runtime.txt
+[Links to an external site](https://github.com/manika-lamba/activity-4/tree/main/.github/workflows)..github/worlflowsLinks to an external site. folder
 LICENSELinks to an external site.
 Links to an external site.README.mdLinks to an external site.
 Links to an external site.your R ScriptLinks to an external site.
