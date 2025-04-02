@@ -47,3 +47,5 @@ To make the Jupyter Binder link for your repository copy this line and add your 
 Submission [1 Point]
 - share your GitHub Repo link for this activity
 - share your BinderHub link for this activity 
+
+Cite the code: [![DOI](https://zenodo.org/badge/953647996.svg)](https://doi.org/10.5281/zenodo.15127419)
